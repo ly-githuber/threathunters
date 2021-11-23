@@ -1,6 +1,6 @@
 # Hive
 
-Use this query to look for running Hive ransomware behavior in the environment
+Use this query to look for running Hive ransomware's launching hive.bat behavior in the environment
 
 ## Query
 ```
